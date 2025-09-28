@@ -7,4 +7,8 @@ int main() {
     if(flag==0) printf("%d is Prime\n", n);
     else printf("%d is Not Prime\n", n);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> cbf06b08628f1286dd4c81c59c9d16fc19201821

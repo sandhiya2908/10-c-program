@@ -5,4 +5,8 @@ int main() {
     else if(b>c) printf("Largest = %d\n",b);
     else printf("Largest = %d\n",c);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> cbf06b08628f1286dd4c81c59c9d16fc19201821

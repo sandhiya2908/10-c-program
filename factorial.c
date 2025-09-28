@@ -7,6 +7,7 @@ int main() {
     int n=5;
     printf("Factorial of %d = %lld\n", n, fact(n));
     return 0;
+<<<<<<< HEAD
 }// Commit number 1
 // Commit number 2
 // Commit number 3
@@ -207,3 +208,6 @@ int main() {
 // Commit number 98
 // Commit number 99
 // Commit number 100
+=======
+}
+>>>>>>> cbf06b08628f1286dd4c81c59c9d16fc19201821

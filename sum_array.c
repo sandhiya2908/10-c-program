@@ -4,4 +4,8 @@ int main() {
     for(i=0;i<5;i++) sum+=arr[i];
     printf("Sum = %d\n",sum);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> cbf06b08628f1286dd4c81c59c9d16fc19201821
