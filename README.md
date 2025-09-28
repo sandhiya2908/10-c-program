@@ -19,4 +19,4 @@ This repository contains 10 basic C programs for practice and learning purposes.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sandhiya2908/10-C-Programs.git
+git clone https://github.com/sandhiya2908/10-C-Program.git
